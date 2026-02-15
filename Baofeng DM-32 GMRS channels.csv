@@ -1,0 +1,31 @@
+No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Width,Scan List,TX Admit,Emergency System,Squelch Level,APRS Report Type,Forbid TX,APRS Receive,Forbid Talkaround,Auto Scan,Lone Work,Emergency Indicator,Emergency ACK,Analog APRS PTT Mode,Digital APRS PTT Mode,TX Contact,RX Group List,Color Code,Time Slot,Encryption,Encryption ID,APRS Report Channel,Direct Dual Mode,Private Confirm,Short Data Confirm,DMR ID,CTC/DCS Decode,CTC/DCS Encode,Scramble,RX Squelch Mode,Signaling Type,PTT ID,VOX Function,PTT ID Display
+71,GMRS 1,Analog,462.5625,462.5625,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+72,GMRS 2,Analog,462.5875,462.5875,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+73,GMRS 3,Analog,462.6125,462.6125,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+74,GMRS 4,Analog,462.6375,462.6375,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+75,GMRS 5,Analog,462.6625,462.6625,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+76,GMRS 6,Analog,462.6875,462.6875,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+77,GMRS 7,Analog,462.7125,462.7125,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+78,GMRS 8,Analog,467.5625,467.5625,Low,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+79,GMRS 9,Analog,467.5875,467.5875,Low,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+80,GMRS 10,Analog,467.6125,467.6125,Low,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+81,GMRS 11,Analog,467.6375,467.6375,Low,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+82,GMRS 12,Analog,467.6625,467.6625,Low,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+83,GMRS 13,Analog,467.6875,467.6875,Low,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+84,GMRS 14,Analog,467.7125,467.7125, Low,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+85,GMRS 15,Analog,462.5500,462.5500,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+86,GMRS 16,Analog,462.5750,462.5750,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+87,GMRS 17,Analog,462.6000,462.6000,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+88,GMRS 18,Analog,462.6250,462.6250,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+89,GMRS 19,Analog,462.6500,462.6500,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+90,GMRS 20,Analog,462.6750,462.6750,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+91,GMRS 21,Analog,462.7000,462.7000,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+92,GMRS 22,Analog,462.7250,462.7250,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+93,GMRS 15R,Analog,462.5500,462.5500,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+94,GMRS 16R,Analog,462.5750,462.5750,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+95,GMRS 17R,Analog,462.6000,462.6000,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+96,GMRS 18R,Analog,462.6250,462.6250,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+97,GMRS 19R,Analog,462.6500,462.6500,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+98,GMRS 20R,Analog,462.6750,462.6750,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+99,GMRS 21R,Analog,462.7000,462.7000,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
+100,GMRS 22R,Analog,462.7250,462.7250,High,25KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,4000 disconnect,None,0,Slot 1,0,None,1,0,0,0,AE6F,None,None,None,Carrier/CTC,None,OFF,0,0
